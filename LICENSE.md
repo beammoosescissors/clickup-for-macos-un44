@@ -1,4 +1,4 @@
-
+Enhance ClickUp for macOS with ClickUp for macOS smart Workflow - export to PDF and reminders, the #1 workflow. Includes export to PDF and reminders for a smoother experience.
 
 
 
